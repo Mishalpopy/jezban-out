@@ -7,7 +7,7 @@ import ContactUsBanner from "./ContactUsBanner";
 const ContactUs = () => {
   return (
     <>
-      <Menu header_style_2={true} />
+      <Menu />
       <ContactUsBanner />
       <ContactInfo />
       <FooterThree />
