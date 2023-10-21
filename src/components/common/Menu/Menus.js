@@ -15,28 +15,26 @@ const Menus = () => {
         <Link to="/team">Services</Link>
         <ul className="submenu">
           <li>
-            <Link to="/">Mosquito Control</Link>
+            <Link to="mosquito-control">Mosquito Control</Link>
           </li>
           <li>
-            <Link to="/team-details">Cockroach Control</Link>
+            <Link to="/cockroach-control">Cockroach Control</Link>
           </li>
           <li>
-            <Link to="/service">Ants Control</Link>
+            <Link to="/ants-control">Ants Control</Link>
           </li>
           <li>
-            <Link to="/service-details">Bedbugs Control</Link>
+            <Link to="/bug-control">Bedbugs Control</Link>
           </li>
-          <li>
-            <Link to="/price">Price</Link>
-          </li>
+    
          
         </ul>
       </li>
       <li>
-        <Link to="/about">Gallery</Link>
+        <Link to="/">Gallery</Link>
       </li>
       <li>
-        <Link to="/about">Contact us</Link>
+        <Link to="/contact">Contact us</Link>
       </li>
     </ul>
   );

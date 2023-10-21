@@ -20,11 +20,11 @@ const AboutFeature = () => {
               <div className="tp-feaure-ct-box black-bg">
                 <div className="tp-slider-text tp-ct-position d-inline-block">
                   <span className="mb-25 d-inline-block">
-                    Make your new business plan a success!
+                  Get in Touch with Jezban Pest Control
                   </span>
                   <h3 className="tp-slider-title mb-25">
-                    Make your <br />
-                    Business Boom
+                  Contact Us for Pest Solutions  <br />
+                  Tailored to Your Needs
                   </h3>
 
                   <Link to="/about" className="tp-slider-btn" tabIndex="-1">

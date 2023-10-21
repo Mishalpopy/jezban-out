@@ -9,9 +9,9 @@ const TeamDetailsAbout = () => {
             <div className="row">
               <div className="col-12">
                 <div className="team-page-text">
-                  <h3 className="team-title-text mb-25">Unleash the Power of Effective Mosquito Control</h3>
+                  <h3 className="team-title-text mb-25">Experience a Roach-Free Environment</h3>
                   <p className="mb-25">
-                  Are you tired of swatting away mosquitoes during outdoor gatherings or losing sleep to their incessant buzzing indoors? At Jezban Pest Control, we have the perfect solution to free you from the clutches of these bloodthirsty insects. Our mosquito control services are tailored to create mosquito-free environments that let you and your loved ones enjoy the great outdoors and peaceful nights without interruption.
+                  Are persistent cockroaches invading your space and creating discomfort? At Jezban Pest Control, we offer tailored cockroach control solutions that bring relief to your home or business. Our expert team is well-versed in the behavior and biology of cockroaches, ensuring effective eradication and prevention of these resilient pests.
                   </p>
                  
                 </div>
@@ -119,20 +119,20 @@ const TeamDetailsAbout = () => {
               </div>
 
               <div className="col-lg-6 col-12 d-flex flex-column justify-content-center">
-                <h3 className="team-title-text mb-25">Expertise Meets Eco-Friendly Solutions</h3>
+                <h3 className="team-title-text mb-25">Expertise and Precision</h3>
                 <p>
-                We take pride in our commitment to excellence and environmental responsibility. Our highly skilled team is equipped with the latest techniques and knowledge in mosquito control to provide the highest quality service available. Moreover, our approach aligns with eco-friendly and sustainable practices, reflecting our care for the environment and your well-being. When you choose us, you not only get expert mosquito control but also peace of mind knowing it's done responsibly.
+                Our skilled technicians utilize the latest techniques and knowledge in cockroach control, providing the highest quality service available. We know that dealing with cockroaches can be a nuisance, which is why we're committed to exceeding your expectations, ensuring your peace of mind with our transparent and customer-centric approach.
                 </p>
               </div>
             </div>
             <div className="row">
               <div className="col-12">
                 <div className="team-page-text">
-                  <h3 className="team-title-text mb-30">Customer Satisfaction Guaranteed</h3>
+                  <h3 className="team-title-text mb-30">Local Insight for Precision Results</h3>
                   <p className="mb-25">
-                  Your satisfaction is our ultimate goal. We work tirelessly to exceed your expectations, ensuring that you can relish a pest-free, safe, and comfortable environment. With a deep understanding of local pest challenges and a transparent approach in all our interactions, we're your trusted partner in safeguarding your spaces from unwanted mosquito intruders. Discover the joy of mosquito-free living with Jezban Pest Control - we've got you covered.
+                  As a local service provider, we understand the specific challenges presented by local cockroach species and environmental conditions. We offer eco-friendly and sustainable pest control methods, reflecting our care for the environment and your well-being. Partner with us to eliminate cockroaches and create a pest-free, safe, and comfortable environment you deserve.
                   </p>
-                 
+      
                 </div>
               </div>
             </div>

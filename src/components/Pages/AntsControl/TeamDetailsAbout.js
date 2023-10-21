@@ -9,9 +9,9 @@ const TeamDetailsAbout = () => {
             <div className="row">
               <div className="col-12">
                 <div className="team-page-text">
-                  <h3 className="team-title-text mb-25">Unleash the Power of Effective Mosquito Control</h3>
+                  <h3 className="team-title-text mb-25">Experience Ant-Free Living</h3>
                   <p className="mb-25">
-                  Are you tired of swatting away mosquitoes during outdoor gatherings or losing sleep to their incessant buzzing indoors? At Jezban Pest Control, we have the perfect solution to free you from the clutches of these bloodthirsty insects. Our mosquito control services are tailored to create mosquito-free environments that let you and your loved ones enjoy the great outdoors and peaceful nights without interruption.
+                  Are pesky ants taking over your home or business, causing frustration and inconvenience? Jezban Pest Control offers tailored ant control solutions to eliminate these persistent pests and restore comfort to your living or working environment. Our expert team is well-versed in ant behavior, species identification, and the most effective methods for ant eradication.
                   </p>
                  
                 </div>
@@ -119,20 +119,20 @@ const TeamDetailsAbout = () => {
               </div>
 
               <div className="col-lg-6 col-12 d-flex flex-column justify-content-center">
-                <h3 className="team-title-text mb-25">Expertise Meets Eco-Friendly Solutions</h3>
+                <h3 className="team-title-text mb-25">Expertise and Attention to Detail</h3>
                 <p>
-                We take pride in our commitment to excellence and environmental responsibility. Our highly skilled team is equipped with the latest techniques and knowledge in mosquito control to provide the highest quality service available. Moreover, our approach aligns with eco-friendly and sustainable practices, reflecting our care for the environment and your well-being. When you choose us, you not only get expert mosquito control but also peace of mind knowing it's done responsibly.
+                Our dedicated technicians are equipped with the latest techniques and knowledge in ant control, delivering top-notch services that prioritize your satisfaction. We understand the importance of prompt and thorough ant elimination, and our transparent approach ensures your peace of mind throughout the process.
                 </p>
               </div>
             </div>
             <div className="row">
               <div className="col-12">
                 <div className="team-page-text">
-                  <h3 className="team-title-text mb-30">Customer Satisfaction Guaranteed</h3>
+                  <h3 className="team-title-text mb-30">Local Knowledge for Targeted Results</h3>
                   <p className="mb-25">
-                  Your satisfaction is our ultimate goal. We work tirelessly to exceed your expectations, ensuring that you can relish a pest-free, safe, and comfortable environment. With a deep understanding of local pest challenges and a transparent approach in all our interactions, we're your trusted partner in safeguarding your spaces from unwanted mosquito intruders. Discover the joy of mosquito-free living with Jezban Pest Control - we've got you covered.
+                  As a local service provider, we possess a deep understanding of the specific ant challenges in your area. Our eco-friendly and sustainable pest control methods reflect our commitment to both the environment and your well-being. Partner with us to eliminate ant infestations and create a pest-free, safe, and comfortable environment that you and your family or employees deserve.
                   </p>
-                 
+      
                 </div>
               </div>
             </div>

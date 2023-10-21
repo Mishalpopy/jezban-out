@@ -8,14 +8,14 @@ const TeamDetailsHero = () => {
           <div className="row">
             <div className="col-12">
               <div className="team-hero-img p-relative">
-                <img src="assets/img/service/mos.jpg" alt="" />
+                <img src="assets/img/service/cock.jpg" alt="" />
                 <div className="team-info-box white-bg pt-60 pl-100 pr-100">
-                  <h3 className="t-box-title">Mosquito Control</h3>
-                  <span>Protect Your Space: Jezban's Mosquito Management</span>
+                  <h3 className="t-box-title">Cockroach Control</h3>
+                  <span>Expert Cockroach Management for a Pest-Free Home</span>
                   <div className="team-member-info-list">
                     <ul>
-                      <li>Effective Mosquito Control Solutions</li>
-                      <li>Mosquito-Free Environments: Our Expertise at Work</li>
+                      <li>Efficient Cockroach Control Solutions</li>
+                      <li>Say Goodbye to Cockroaches with Jezban Pest Control</li>
                       <li>
                         E-mail:
                         <a href="mailto:'info@jezban.com'">

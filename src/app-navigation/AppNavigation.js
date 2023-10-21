@@ -18,6 +18,9 @@ import Service from '../components/Pages/Service/Service';
 import ServiceDetails from '../components/Pages/ServiceDetails/ServiceDetails';
 import TeamDetails from '../components/Pages/TeamDetails/TeamDetails';
 import TeamPage from '../components/Pages/TeamPage/TeamPage';
+import CockroachControl from '../components/Pages/CockroachControl/CockroachControl';
+import AntsControl from '../components/Pages/AntsControl/AntsControl';
+import BugControl from '../components/Pages/BugControl/BugControl';
 
 const AppNavigation = () => {
   return (
@@ -37,7 +40,10 @@ const AppNavigation = () => {
         <Route path="/portfolio-details" element={<PortfolioDetails />} />
         <Route path="/blog" element={<Blog />} />
         <Route path="/blog-details" element={<BlogDetails />} />
+        <Route path="/cockroach-control" element={<CockroachControl />} />
         <Route path="/mosquito-control" element={<MosquitoControl />} />
+        <Route path="/ants-control" element={<AntsControl />} />
+        <Route path="/bug-control" element={<BugControl />} />
 
       </Routes>
       <BackToTop/>

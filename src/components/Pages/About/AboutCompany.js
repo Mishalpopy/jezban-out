@@ -6,7 +6,7 @@ const AboutCompany = () => {
       <div className="about-details-page pt-140 pb-110">
         <div className="container">
           <div className="row">
-            <div className="col-lg-6">
+            <div className="col-lg-6 d-flex flex-column justify-content-center">
               <div className="about-details-info pr-65">
                 <div className="tp-section-wrapper">
                   <span className="tp-section-subtitle mb-25">
