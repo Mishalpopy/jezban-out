@@ -12,7 +12,7 @@ const Menus = () => {
         <Link to="/about">About us</Link>
       </li>
       <li className="has-dropdown">
-        <Link to="/team">Services</Link>
+        <Link to="/">Services</Link>
         <ul className="submenu">
           <li>
             <Link to="/mosquito-control">Mosquito Control</Link>
