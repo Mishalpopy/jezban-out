@@ -1,13 +1,9 @@
-import React, { useContext, useEffect, useRef } from "react";
-import { AppContext } from "../context/ContextProvider";
-
 const AnimateMouse = () => {
-  const {isEnter} = useContext(AppContext);
+  const { isEnter } = useContext(AppContext);
   const eRef = useRef(null);
   const tRef = useRef(null);
-  let n,
-    i = 0,
-    o = false;
+  // Remove the n and i variables since they are not used
+  const o = false;
 
   useEffect(() => {
     const handleMouseMove = (s) => {
@@ -15,8 +11,7 @@ const AnimateMouse = () => {
         tRef.current.style.transform = `translate(${s.clientX}px, ${s.clientY}px)`;
       }
       eRef.current.style.transform = `translate(${s.clientX}px, ${s.clientY}px)`;
-      n = s.clientY;
-      i = s.clientX;
+      // Remove the assignments to n and i
     };
     window.addEventListener("mousemove", handleMouseMove);
 
@@ -42,5 +37,3 @@ const AnimateMouse = () => {
     </React.Fragment>
   );
 };
-
-export default AnimateMouse;
