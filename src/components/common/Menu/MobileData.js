@@ -1,7 +1,7 @@
 const menu_data = [
   {
     id: 1,
-    hasDropdown: true,
+    hasDropdown: false,
     title: 'Home',
     link: '/',
     submenus: [
@@ -18,23 +18,19 @@ const menu_data = [
   {
     id: 3,
     hasDropdown: true,
-    title: 'Pages',
-    link: '/about',
-    submenus: [
-      { title: 'Team', link: '/team' },
-      { title: 'Team Details', link: '/team-details' },
-      { title: 'Service', link: '/service' },
-      { title: 'Service Details', link: '/service-details' },
-      { title: 'Price', link: '/price' },
-      { title: 'Contact', link: '/contact' },
-      { title: 'Faq', link: '/faq' },
+    title: 'Services',
+      submenus: [
+      { title: 'Mosquito Control', link: '/mosquito-control' },
+      { title: 'Cockroach Control', link: '/cockroach-control' },
+      { title: 'Ants Control', link: '/ants-control' },
+      { title: 'Bedbugs Control', link: '/bug-control' },
     ]
   },
   {
     id: 4,
-    hasDropdown: true,
-    title: 'Portfolio',
-    link: '/portfolio',
+    hasDropdown: false,
+    title: 'Gallery',
+    link: '/',
     submenus: [
       { title: 'Portfolio', link: '/portfolio' },
       { title: 'Portfolio Details', link: '/portfolio-details' },
@@ -42,9 +38,9 @@ const menu_data = [
   },
   {
     id: 5,
-    hasDropdown: true,
-    title: 'Blog',
-    link: '/blog',
+    hasDropdown: false,
+    title: 'Contact',
+    link: '/contact',
     submenus: [
       { title: 'Blog', link: '/blog' },
       { title: 'Blog Details', link: '/blog-details' },
