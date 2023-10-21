@@ -15,7 +15,7 @@ const Menus = () => {
         <Link to="/team">Services</Link>
         <ul className="submenu">
           <li>
-            <Link to="mosquito-control">Mosquito Control</Link>
+            <Link to="/mosquito-control">Mosquito Control</Link>
           </li>
           <li>
             <Link to="/cockroach-control">Cockroach Control</Link>
