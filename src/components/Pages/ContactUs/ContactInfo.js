@@ -24,7 +24,7 @@ const ContactInfo = () => {
                 </span>
                 <h3 className="ct-info__box-title">Address line</h3>
                 <p className="p-0">
-                  Bowery St, New York, NY <br /> 10013,USA
+                  Karam Dubai<br /> UAE
                 </p>
               </div>
             </div>
@@ -47,8 +47,8 @@ const ContactInfo = () => {
                 </span>
                 <h3 className="ct-info__box-title">Phone Number</h3>
                 <p className="p-0">
-                  <a href="tel:+1255-568-6523">+1255 - 568 - 6523</a> <br />
-                  <a href="tel:+1255-568-6523">+1255 - 568 - 6523</a>
+                  <a href="tel:+1255-568-6523">(+971)5246 - 254 - 5632</a> <br />
+                  <a href="tel:+1255-568-6523">(+971)5246 - 254 - 5632</a>
                 </p>
               </div>
             </div>
@@ -70,9 +70,9 @@ const ContactInfo = () => {
                 </span>
                 <h3 className="ct-info__box-title">Mail Adress</h3>
                 <p className="p-0">
-                  <a href="mailto:email@example.com">email@example.com</a>{" "}
+                  <a href="mailto:email@example.com">info@jeban.com</a>{" "}
                   <br />
-                  <a href="mailto:info@yourdomain.com">info@yourdomain.com</a>
+                  <a href="mailto:info@yourdomain.com">info@jeban.com</a>
                 </p>
               </div>
             </div>
