@@ -9,8 +9,10 @@ const OffCanvas = ({ setOffCanvas, isOffCanvas }) => {
         className={`offcanvas__area off-canvas-bg ${
           isOffCanvas ? "opened" : ""
         }`}
-        style={{ backgroundImage: `url("assets/img//bg/Sidearea-bg-img.png")` }}
+        
+        
       >
+   
         <div className="offcanvas_area-logo">
           <span className="offcanvas__close-btn">
             <button onClick={() => setOffCanvas(false)}>
@@ -18,18 +20,16 @@ const OffCanvas = ({ setOffCanvas, isOffCanvas }) => {
             </button>
           </span>
         </div>
-        <div className="offcanvas-content">
+        <div className="offcanvas-content pb-40">
           <div className="offcanvas-subtitle">
             <span>ELEVATE YOUR PEST CONTROL WITH</span>
           </div>
-          <div className="offcanvas-logo pb-30 pt-30">
-            <img src="assets/img/logo/logo.png" alt="" />
+          <div className="offcanvas-logo pb-30 pt-10">
+          <Link to="/" href="/"><img src="/assets/img/white.svg" width={300} className="mx-auto" alt="" /></Link>
           </div>
-          <div className="offcanva-details">
+          <div className="offcanva-details ">
             <p>
-              Limitless customization options & Elementor compatibility let
-              anyone create a beautiful website with Valiance.
-            </p>
+            At Jezban Pest Control, we are dedicated to ensuring that your home and business remain pest-free, safe, and comfortable. Our story is one of passion, expertise, and a relentless commitment to customer satisfaction.            </p>
           </div>
           <div className="offcanva-btn">
             <Link
@@ -78,13 +78,13 @@ const OffCanvas = ({ setOffCanvas, isOffCanvas }) => {
           <h3 className="tp-footer__widget-title">Quick Links</h3>
           <ul>
             <li>
-              <Link to="#">27 Division St, New York, NY 10002, USA</Link>
+              <Link to="#">27 Division St,Dubai, UAE</Link>
             </li>
             <li>
-              <Link to="tel:+88015569569365">(+880)52462545632</Link>
+              <Link to="tel:+88015569569365">(+971)52462545632</Link>
             </li>
             <li>
-              <Link to="mailto:support@example.com">support@example.com</Link>
+              <Link to="mailto:support@example.com">info@jeban.com</Link>
             </li>
             <li>
               <span> Office Hours: 9AM - 4PM</span>
