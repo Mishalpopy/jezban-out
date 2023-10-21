@@ -1,3 +1,6 @@
+import React, { useContext, useEffect, useRef } from "react";
+import { AppContext } from "../context/ContextProvider";
+
 const AnimateMouse = () => {
   const { isEnter } = useContext(AppContext);
   const eRef = useRef(null);
@@ -37,3 +40,5 @@ const AnimateMouse = () => {
     </React.Fragment>
   );
 };
+
+export default AnimateMouse;
