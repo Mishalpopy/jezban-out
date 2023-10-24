@@ -11,7 +11,7 @@ const TeamDetailsAbout = () => {
                 <div className="team-page-text">
                   <h3 className="team-title-text mb-25">Reclaim Your Comfort</h3>
                   <p className="mb-25">
-                  Are sleepless nights and itchy bites caused by bedbugs disrupting your peace and well-being? Jezban Pest Control offers specialized bedbug control solutions to eliminate these persistent pests and provide you with the good night's sleep you deserve. Our expert team is well-versed in bedbug behavior, identification, and the most effective methods for their complete eradication.
+                  Are sleepless nights and itchy bites caused by bedbugs disrupting your peace and well-being? Jezben Pest Control offers specialized bedbug control solutions to eliminate these persistent pests and provide you with the good night's sleep you deserve. Our expert team is well-versed in bedbug behavior, identification, and the most effective methods for their complete eradication.
                   </p>
                  
                 </div>

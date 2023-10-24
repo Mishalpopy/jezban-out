@@ -79,7 +79,7 @@ const FooterThree = () => {
           <div className="row">
             <div className="col-12">
               <div className="tp-copyrigh-text text-center text-white">
-                <span>© {new Date().getFullYear()} Jezban - Pest Control . All Rights Reserved..</span>
+                <span>© {new Date().getFullYear()} Jezben - Pest Control . All Rights Reserved..</span>
               </div>
             </div>
           </div>

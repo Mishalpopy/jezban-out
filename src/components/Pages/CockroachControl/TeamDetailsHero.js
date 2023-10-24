@@ -15,11 +15,11 @@ const TeamDetailsHero = () => {
                   <div className="team-member-info-list">
                     <ul>
                       <li>Efficient Cockroach Control Solutions</li>
-                      <li>Say Goodbye to Cockroaches with Jezban Pest Control</li>
+                      <li>Say Goodbye to Cockroaches with Jezben Pest Control</li>
                       <li>
                         E-mail:
-                        <a href="mailto:'info@jezban.com'">
-                          info@jezban.com
+                        <a href="mailto:'info@jezben.com'">
+                          info@jezben.com
                         </a>
                       </li>
                       <li>

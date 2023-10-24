@@ -11,7 +11,7 @@ const TeamDetailsAbout = () => {
                 <div className="team-page-text">
                   <h3 className="team-title-text mb-25">Unleash the Power of Effective Mosquito Control</h3>
                   <p className="mb-25">
-                  Are you tired of swatting away mosquitoes during outdoor gatherings or losing sleep to their incessant buzzing indoors? At Jezban Pest Control, we have the perfect solution to free you from the clutches of these bloodthirsty insects. Our mosquito control services are tailored to create mosquito-free environments that let you and your loved ones enjoy the great outdoors and peaceful nights without interruption.
+                  Are you tired of swatting away mosquitoes during outdoor gatherings or losing sleep to their incessant buzzing indoors? At Jezben Pest Control, we have the perfect solution to free you from the clutches of these bloodthirsty insects. Our mosquito control services are tailored to create mosquito-free environments that let you and your loved ones enjoy the great outdoors and peaceful nights without interruption.
                   </p>
                  
                 </div>
@@ -130,7 +130,7 @@ const TeamDetailsAbout = () => {
                 <div className="team-page-text">
                   <h3 className="team-title-text mb-30">Customer Satisfaction Guaranteed</h3>
                   <p className="mb-25">
-                  Your satisfaction is our ultimate goal. We work tirelessly to exceed your expectations, ensuring that you can relish a pest-free, safe, and comfortable environment. With a deep understanding of local pest challenges and a transparent approach in all our interactions, we're your trusted partner in safeguarding your spaces from unwanted mosquito intruders. Discover the joy of mosquito-free living with Jezban Pest Control - we've got you covered.
+                  Your satisfaction is our ultimate goal. We work tirelessly to exceed your expectations, ensuring that you can relish a pest-free, safe, and comfortable environment. With a deep understanding of local pest challenges and a transparent approach in all our interactions, we're your trusted partner in safeguarding your spaces from unwanted mosquito intruders. Discover the joy of mosquito-free living with Jezben Pest Control - we've got you covered.
                   </p>
                  
                 </div>

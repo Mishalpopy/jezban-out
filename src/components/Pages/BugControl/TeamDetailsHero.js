@@ -18,8 +18,9 @@ const TeamDetailsHero = () => {
                       <li>Effective Bedbug Control Solutions for a Peaceful Night's Sleep</li>
                       <li>
                         E-mail:
-                        <a href="mailto:'info@jezban.com'">
-                          info@jezban.com
+                        <a href="mailto:'info@jezbe
+                        n.com'">
+                          info@jezben.com
                         </a>
                       </li>
                       <li>

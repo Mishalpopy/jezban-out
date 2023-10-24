@@ -66,7 +66,7 @@ const AboutCompany = () => {
                       aria-labelledby="nav-mission"
                     >
                       <p>
-                      At Jezban Pest Control, our mission is to protect your homes and businesses from pest intrusions. We are dedicated to creating pest-free, safe, and comfortable environments for you, your family, and your employees. With our expertise and commitment, we provide efficient and effective pest control services that ensure your peace of mind.
+                      At Jezben Pest Control, our mission is to protect your homes and businesses from pest intrusions. We are dedicated to creating pest-free, safe, and comfortable environments for you, your family, and your employees. With our expertise and commitment, we provide efficient and effective pest control services that ensure your peace of mind.
                       </p>
 
                      
@@ -78,7 +78,7 @@ const AboutCompany = () => {
                       aria-labelledby="nav-vission-tab"
                     >
                       <p>
-                      At Jezban Pest Control, our vision is to lead the pest control industry, setting the highest standards in pest management. We aim to consistently exceed our customers' expectations, creating pest-free and healthy environments for all our clients. Our vision is to be your trusted partner in safeguarding your spaces from unwanted intruders, offering services that are efficient, effective, and unmatched in quality.
+                      At Jezben Pest Control, our vision is to lead the pest control industry, setting the highest standards in pest management. We aim to consistently exceed our customers' expectations, creating pest-free and healthy environments for all our clients. Our vision is to be your trusted partner in safeguarding your spaces from unwanted intruders, offering services that are efficient, effective, and unmatched in quality.
                       </p>
                      
 

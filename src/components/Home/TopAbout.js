@@ -15,10 +15,10 @@ const TopAbout = () => {
                   Our Story and Commitment
                   </span>
                   <h2 className="tp-section-title pt-20 mb-35">
-                  Experience the Jezban Difference: Your Trusted Pest Control Partner
+                  Experience the Jezben Difference: Your Trusted Pest Control Partner
                   </h2>
                   <p>
-                  At Jezban Pest Control, we are dedicated to ensuring that your home and business remain pest-free, safe, and comfortable. Our story is one of passion, expertise, and a relentless commitment to customer satisfaction.
+                  At Jezben Pest Control, we are dedicated to ensuring that your home and business remain pest-free, safe, and comfortable. Our story is one of passion, expertise, and a relentless commitment to customer satisfaction.
                   </p>
                   <p className="pt-10">
                   As a local service provider, we understand the unique challenges in your area and are dedicated to delivering customer satisfaction. Our commitment to excellence, environmental responsibility, and transparent pricing make us the reliable choice for all your pest control needs. Partner with us and experience a pest-free, safe, and comfortable environment.

@@ -29,7 +29,7 @@ const OffCanvas = ({ setOffCanvas, isOffCanvas }) => {
           </div>
           <div className="offcanva-details ">
             <p>
-            At Jezban Pest Control, we are dedicated to ensuring that your home and business remain pest-free, safe, and comfortable. Our story is one of passion, expertise, and a relentless commitment to customer satisfaction.            </p>
+            At Jezben Pest Control, we are dedicated to ensuring that your home and business remain pest-free, safe, and comfortable. Our story is one of passion, expertise, and a relentless commitment to customer satisfaction.            </p>
           </div>
           <div className="offcanva-btn">
             <Link

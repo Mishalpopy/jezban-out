@@ -12,10 +12,10 @@ const TopCtaArea = () => {
               <div className="col-lg-9">
                 <div className="tp-section-wrapper">
                   <span className="tp-section-subtitle mb-25">
-                  Experience Excellence in Pest Control with Jezban
+                  Experience Excellence in Pest Control with Jezben
                   </span>
                   <h2 className="tp-section-title">
-                  Discover Jezban Pest Control's expertise. View our work gallery to witness our effective solutions for pest-free, worry-free living.
+                  Discover Jezben Pest Control's expertise. View our work gallery to witness our effective solutions for pest-free, worry-free living.
                   </h2>
                 </div>
               </div>

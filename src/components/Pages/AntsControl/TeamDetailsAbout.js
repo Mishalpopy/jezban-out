@@ -11,7 +11,7 @@ const TeamDetailsAbout = () => {
                 <div className="team-page-text">
                   <h3 className="team-title-text mb-25">Experience Ant-Free Living</h3>
                   <p className="mb-25">
-                  Are pesky ants taking over your home or business, causing frustration and inconvenience? Jezban Pest Control offers tailored ant control solutions to eliminate these persistent pests and restore comfort to your living or working environment. Our expert team is well-versed in ant behavior, species identification, and the most effective methods for ant eradication.
+                  Are pesky ants taking over your home or business, causing frustration and inconvenience? Jezben Pest Control offers tailored ant control solutions to eliminate these persistent pests and restore comfort to your living or working environment. Our expert team is well-versed in ant behavior, species identification, and the most effective methods for ant eradication.
                   </p>
                  
                 </div>

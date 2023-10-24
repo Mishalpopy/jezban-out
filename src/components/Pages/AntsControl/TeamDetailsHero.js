@@ -11,15 +11,15 @@ const TeamDetailsHero = () => {
                 <img src="assets/img/service/ant.jpg" alt="" />
                 <div className="team-info-box white-bg pt-60 pl-100 pr-100">
                   <h3 className="t-box-title">Ants Control</h3>
-                  <span>Ants Begone: Jezban Pest Control's Expert Ant Management</span>
+                  <span>Ants Begone: Jezben Pest Control's Expert Ant Management</span>
                   <div className="team-member-info-list">
                     <ul>
                       <li>Effective Ant Control Solutions for a Pest-Free Home</li>
                       <li>Safeguarding Your Space from Unwanted Ant Intruders</li>
                       <li>
                         E-mail:
-                        <a href="mailto:'info@jezban.com'">
-                          info@jezban.com
+                        <a href="mailto:'info@.com'">
+                          info@jezben.com
                         </a>
                       </li>
                       <li>

@@ -11,7 +11,7 @@ const TeamDetailsAbout = () => {
                 <div className="team-page-text">
                   <h3 className="team-title-text mb-25">Experience a Roach-Free Environment</h3>
                   <p className="mb-25">
-                  Are persistent cockroaches invading your space and creating discomfort? At Jezban Pest Control, we offer tailored cockroach control solutions that bring relief to your home or business. Our expert team is well-versed in the behavior and biology of cockroaches, ensuring effective eradication and prevention of these resilient pests.
+                  Are persistent cockroaches invading your space and creating discomfort? At Jezben Pest Control, we offer tailored cockroach control solutions that bring relief to your home or business. Our expert team is well-versed in the behavior and biology of cockroaches, ensuring effective eradication and prevention of these resilient pests.
                   </p>
                  
                 </div>
